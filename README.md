@@ -1,12 +1,13 @@
-# UE4 Plugin: kd-tree
+# UE5/UE4 Plugin: kd-tree
 
-This is a UE4 plugin to provide utility functions for building kd-tree as Blueprint Function Library.
+This is a Unreal Engine 5/4 plugin to provide utility functions for building kd-tree as Blueprint Function Library.
 
 
 ## Supported Environment
 
 This plugin is tested on the below environment.
 
+* Confirmed working in UE5 Verson 5.3 without modification -Hattoff
 * UE4 Version: 4.22 
 * OS: Windows/Mac
 
